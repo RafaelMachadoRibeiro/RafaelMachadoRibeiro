@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Rafael Machado Ribeiro
 
 - 🌱 Estudando Programação
-- 😄 Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/RafaelMachadoRibeiro">
