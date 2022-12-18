@@ -19,6 +19,8 @@
   <div> 
   <a href="https://instagram.com/rafaelmr20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:machadoribeirorafael@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/rafael-machado-ribeiro-047233244/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+          
  </div>
 
  ![Snake animation](https://github.com/RafaelMachadoRibeiro/RafaelMachadoRibeiro/blob/output/github-contribution-grid-snake.svg)
